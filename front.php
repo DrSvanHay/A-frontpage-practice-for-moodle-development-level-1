@@ -34,6 +34,7 @@
            'id, fullname, shortname, summary, format,
             startdate, enddate, visible');
 ?>
+
 <div class="table-responsive">
     <table class="table table-striped">
       <thead>
