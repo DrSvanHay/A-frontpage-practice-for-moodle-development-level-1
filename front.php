@@ -28,7 +28,7 @@
 </div>
 
 <?php
-    
+    phpinfo();
     global $PAGE, $DB;
     $courses = $DB->get_records('course', null, '',
            'id, fullname, shortname, summary, format,
